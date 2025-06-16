@@ -24,7 +24,7 @@
   },
   "homepage": "https://pplancq.github.io/playwright-web-testing",
   "dependencies": {
-    "@pplancq/svg-react": "^1.4.1",
+    "@pplancq/svg-react": "^2.0.0",
     "clsx": "^2.1.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
